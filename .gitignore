@@ -2,6 +2,7 @@
 z*
 
 # User-specific files - Ignore a file called ".env"
-*.env*
+.env
 
 # top-level directory - Ignore the top-level directory named "artifacts"
+/artifacts/
