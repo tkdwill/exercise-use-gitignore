@@ -1,1 +1,7 @@
-node_modules/
+# User-specific files - Ignore all files starting with "z"
+z*
+
+# User-specific files - Ignore a file called ".env"
+*.env*
+
+# top-level directory - Ignore the top-level directory named "artifacts"
